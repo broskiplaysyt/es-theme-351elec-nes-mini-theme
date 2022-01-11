@@ -22,6 +22,10 @@ Credits go to Ruckage for the original theme, antfortytwo for helping out and Ce
 Original Retropie Theme by Ruckage:
 https://github.com/ruckage/es-theme-nes-mini
 
+Screenshots:
+-------------------------------------------------------------------------------  
+[![Image from Gyazo](https://i.gyazo.com/7d1fe12bc0b57d5b73091bb645e7e004.png)](https://gyazo.com/7d1fe12bc0b57d5b73091bb645e7e004)
+
 Supported Systems:
 -------------------------------------------------------------------------------  
 
