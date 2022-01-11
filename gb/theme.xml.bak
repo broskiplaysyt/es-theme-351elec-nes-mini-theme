@@ -1,0 +1,27 @@
+<theme>
+    <formatVersion>3</formatVersion>
+	
+
+	<view name="system">
+
+		
+			
+	</view>
+	
+	<feature supported="carousel">
+
+		
+
+	</feature>
+
+	<view name="basic, detailed, video">
+	
+		
+
+		
+		
+	
+
+	</view>
+	
+</theme>
