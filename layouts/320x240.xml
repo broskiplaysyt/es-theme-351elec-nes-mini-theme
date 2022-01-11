@@ -1,0 +1,22 @@
+<!--
+author:			ruckage
+-->
+
+
+<theme>
+
+	<include>./4x3setup.xml</include>
+
+    <view name="basic, detailed,video">
+
+		<textlist name="gamelist">
+			<size>0.316 0.5991381481481481</size>
+			<pos>0.3504444444444444 0.2075185185185185</pos>			
+			<lineSpacing>1.110</lineSpacing>
+			<selectorHeight>0.065</selectorHeight>
+			<selectorOffsetY>0.013</selectorOffsetY>
+		</textlist>
+		
+	</view>
+
+</theme>
