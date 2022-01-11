@@ -5,6 +5,7 @@ Version 1.0
 
 Theme based on the NES Mini Theme made by Ruckage optimized for 3:2 devices.
 
+Summary
 --------------------------------------------------------------------------------
 
 This 351Elec theme is a port of the NES Mini theme made by Ruckage and adds a couple of new things which the original didn't have. 
@@ -20,6 +21,8 @@ Credits go to Ruckage for the original theme, antfortytwo for helping out and Ce
 
 Original Retropie Theme by Ruckage:
 https://github.com/ruckage/es-theme-nes-mini
+
+Supported Systems:
 -------------------------------------------------------------------------------  
 
 Currently this theme supports:
@@ -83,6 +86,8 @@ pc engine cd
 msx
 msx2
 
+Changelog
+-------------------------------------------------------------------------------  
 
 12/01/2022
 Added a couple new systems, changed the position of all the text and images to fit 3:2 screens. 
