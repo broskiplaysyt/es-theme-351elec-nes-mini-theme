@@ -1,0 +1,73 @@
+<theme>
+    <formatVersion>3</formatVersion>
+	
+
+	<view name="system">
+
+
+			
+	</view>
+	
+	<feature supported="carousel">
+
+		<view name="system">
+
+			
+			<image name="carousel_bar" extra="true">
+				<color>cecece</color>
+			</image>
+		
+		</view>
+
+	</feature>
+	
+
+	<view name="basic, detailed, video">
+	
+
+	
+		<rating name="md_rating">
+			<filledPath>./../art/heart_filled.png</filledPath>
+			<unfilledPath>./../art/heart_empty.png</unfilledPath>
+		</rating>
+		
+		<textlist name="gamelist">
+			<selectorColor>ff004d</selectorColor>
+			<selectedColor>e7e7e7</selectedColor>
+			<primaryColor>2d2d2d</primaryColor>
+			<secondaryColor>4b4b4b</secondaryColor>
+		</textlist>
+		
+
+		
+
+	
+	
+		
+		<image name="player_box" extra="true">
+			<color>ffa300</color>		
+		</image>
+
+		<text name="publisher_label, developer_label, genre_label, rating_label, played_label" extra="true">
+			<color>e7e7e7</color>
+		</text>
+		
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount">
+			<color>e7e7e7</color>
+		</text>		
+
+		<text name="md_lbl_players, md_players">
+			<color>ff004d</color>
+		</text>
+
+		<datetime name="md_releasedate">
+			<color>c8c8c8</color>
+		</datetime>	
+
+		
+		
+	
+
+	</view>
+	
+</theme>
