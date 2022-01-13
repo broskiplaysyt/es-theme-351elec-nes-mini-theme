@@ -31,6 +31,14 @@ Supported Systems:
 
 Currently this theme supports:
 
+NES Hacks
+SNES Hacks
+Game Gear Hacks
+Genesis Hacks
+GB Hacks
+GBC Hacks
+GBA Hacks
+Sega Saturn
 Pico-4
 ScummmVM
 EasyRPG
