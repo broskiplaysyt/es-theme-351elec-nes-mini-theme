@@ -97,3 +97,6 @@ Changelog
 Added a couple new systems, changed the position of all the text and images to fit 3:2 screens. 
 Added sound effects, themes for collections and added Mario, Zelda & Pokemon collections.
 
+13/01/2022
+Added Sega Saturn, SNES Hacks, NES Hacks, GBA Hacks, GB Hacks, GBC Hacks, Genesis Hacks and Game Gear Hacks.
+
